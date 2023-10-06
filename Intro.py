@@ -23,3 +23,8 @@ print("I know the hack behind it")
 print("Hey" , 6, 7)
 print("Hey" , 6, 7, sep='~', end="0.007\n")
 print("harry met Sejal")
+
+## Variables
+
+a = 123456789
+print(a)
